@@ -4,5 +4,6 @@ edição: 1ª
 editora: OReally
 ISBN: 1449369413 / 978-1449369415
 
+Scikit-learn User Guide: https://scikit-learn.org/stable/user_guide.html
 GitHub: https://github.com/amueller/introduction_to_ml_with_python
 Additional Information, errata, examples: http://bit.ly/intro-machine-learning-python
